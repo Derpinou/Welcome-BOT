@@ -1,0 +1,22 @@
+{
+  "name": "bvnbot",
+  "version": "0.0.1",
+  "description": "Simple ",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiopdev/Welcome-BOT.git"
+  },
+  "author": "kiopdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiopdev/Welcome-BOT/issues"
+  },
+  "homepage": "https://github.com/kiopdev/Welcome-BOT#readme"
+}
