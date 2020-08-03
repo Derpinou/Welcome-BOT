@@ -1,9 +1,6 @@
 # Welcome-BOT 📬
 > Simple bot Welcome Discord
 
-[![Active](http://img.shields.io/badge/Status-Active-green.svg)](http://kiopdev.cf/)
-
-
 
 ## Installation
 ```
